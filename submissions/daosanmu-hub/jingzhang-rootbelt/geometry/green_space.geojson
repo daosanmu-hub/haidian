@@ -1,0 +1,126 @@
+{
+ "type": "FeatureCollection",
+ "name": "green_space_scaffold",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "GREEN-001",
+   "properties": {
+    "id": "GREEN-001",
+    "layer": "GREEN_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "主根绿廊-遗址公园段",
+    "green_type": "heritage_greenway"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.976625
+      ],
+      [
+       116.345862,
+       39.976625
+      ],
+      [
+       116.345862,
+       39.988875
+      ],
+      [
+       116.34204,
+       39.988875
+      ],
+      [
+       116.34204,
+       39.976625
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "GREEN-002",
+   "properties": {
+    "id": "GREEN-002",
+    "layer": "GREEN_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "北段创新绿廊",
+    "green_type": "park"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.349684,
+       39.998062499999996
+      ],
+      [
+       116.35296,
+       39.998062499999996
+      ],
+      [
+       116.35296,
+       40.013374999999996
+      ],
+      [
+       116.349684,
+       40.013374999999996
+      ],
+      [
+       116.349684,
+       39.998062499999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "GREEN-003",
+   "properties": {
+    "id": "GREEN-003",
+    "layer": "GREEN_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "南段滨水绿廊",
+    "green_type": "riverfront_greenway"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.952125
+      ],
+      [
+       116.346408,
+       39.952125
+      ],
+      [
+       116.346408,
+       39.964375000000004
+      ],
+      [
+       116.34204,
+       39.964375000000004
+      ],
+      [
+       116.34204,
+       39.952125
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "type": "FeatureCollection",
+ "name": "roads_scaffold",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "ROAD-001",
+   "properties": {
+    "id": "ROAD-001",
+    "layer": "ROAD_CENTERLINE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "主根慢行轴",
+    "road_class": "greenway"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.982749999999996
+      ],
+      [
+       116.35296,
+       39.982749999999996
+      ],
+      [
+       116.35296,
+       39.983975
+      ],
+      [
+       116.34204,
+       39.983975
+      ],
+      [
+       116.34204,
+       39.982749999999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "ROAD-002",
+   "properties": {
+    "id": "ROAD-002",
+    "layer": "ROAD_CENTERLINE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "东西缝合慢行桥",
+    "road_class": "pedestrian"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.988875
+      ],
+      [
+       116.35296,
+       39.988875
+      ],
+      [
+       116.35296,
+       39.9901
+      ],
+      [
+       116.34204,
+       39.9901
+      ],
+      [
+       116.34204,
+       39.988875
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "ROAD-003",
+   "properties": {
+    "id": "ROAD-003",
+    "layer": "ROAD_CENTERLINE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "场景服务环",
+    "road_class": "branch"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.964375000000004
+      ],
+      [
+       116.35296,
+       39.964375000000004
+      ],
+      [
+       116.35296,
+       39.9656
+      ],
+      [
+       116.34204,
+       39.9656
+      ],
+      [
+       116.34204,
+       39.964375000000004
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

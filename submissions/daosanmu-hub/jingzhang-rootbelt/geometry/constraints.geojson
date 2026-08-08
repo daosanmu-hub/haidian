@@ -1,0 +1,86 @@
+{
+ "type": "FeatureCollection",
+ "name": "constraints_scaffold",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "CONS-001",
+   "properties": {
+    "id": "CONS-001",
+    "layer": "REGULATORY_CONTROL",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "京张铁路遗址保护控制",
+    "constraint_type": "heritage_protection"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.982749999999996
+      ],
+      [
+       116.35296,
+       39.982749999999996
+      ],
+      [
+       116.35296,
+       39.9858125
+      ],
+      [
+       116.34204,
+       39.9858125
+      ],
+      [
+       116.34204,
+       39.982749999999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "CONS-002",
+   "properties": {
+    "id": "CONS-002",
+    "layer": "REGULATORY_CONTROL",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "北段生态控制",
+    "constraint_type": "ecological_control"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       40.0041875
+      ],
+      [
+       116.35296,
+       40.0041875
+      ],
+      [
+       116.35296,
+       40.013374999999996
+      ],
+      [
+       116.34204,
+       40.013374999999996
+      ],
+      [
+       116.34204,
+       40.0041875
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
