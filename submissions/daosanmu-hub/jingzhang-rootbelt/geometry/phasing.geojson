@@ -1,0 +1,129 @@
+{
+ "type": "FeatureCollection",
+ "name": "phasing_scaffold",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "PHASE-001",
+   "properties": {
+    "id": "PHASE-001",
+    "layer": "PHASE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "一期:主根贯通段",
+    "phase": "phase_1",
+    "phase_label_zh": "近期-主根贯通"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.9796875
+      ],
+      [
+       116.35296,
+       39.9796875
+      ],
+      [
+       116.35296,
+       39.995
+      ],
+      [
+       116.34204,
+       39.995
+      ],
+      [
+       116.34204,
+       39.9796875
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PHASE-002",
+   "properties": {
+    "id": "PHASE-002",
+    "layer": "PHASE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "二期:根茎强化段",
+    "phase": "phase_2",
+    "phase_label_zh": "中期-根茎强化"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.9613125
+      ],
+      [
+       116.35296,
+       39.9613125
+      ],
+      [
+       116.35296,
+       39.9796875
+      ],
+      [
+       116.34204,
+       39.9796875
+      ],
+      [
+       116.34204,
+       39.9613125
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PHASE-003",
+   "properties": {
+    "id": "PHASE-003",
+    "layer": "PHASE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "三期:根冠成形段",
+    "phase": "phase_3",
+    "phase_label_zh": "远期-根冠成形"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.952125
+      ],
+      [
+       116.35296,
+       39.952125
+      ],
+      [
+       116.35296,
+       39.9613125
+      ],
+      [
+       116.34204,
+       39.9613125
+      ],
+      [
+       116.34204,
+       39.952125
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

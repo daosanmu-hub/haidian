@@ -1,0 +1,186 @@
+{
+ "type": "FeatureCollection",
+ "name": "land_use_topology_partition",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "LU-001",
+   "properties": {
+    "id": "LU-001",
+    "layer": "LAND_USE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "land_use_code": "0802",
+    "name_zh": "AI研发创新用地(东北)",
+    "area_sqm_declared": 2771908.218
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.3553,
+       40.0265
+      ],
+      [
+       116.3533,
+       39.99
+      ],
+      [
+       116.35388,
+       39.982749999999996
+      ],
+      [
+       116.3475,
+       39.982749999999996
+      ],
+      [
+       116.3475,
+       40.0265
+      ],
+      [
+       116.3553,
+       40.0265
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "LU-002",
+   "properties": {
+    "id": "LU-002",
+    "layer": "LAND_USE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "land_use_code": "0802",
+    "name_zh": "科研教育用地(西北)",
+    "area_sqm_declared": 2474241.653
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.3475,
+       39.982749999999996
+      ],
+      [
+       116.3402,
+       39.982749999999996
+      ],
+      [
+       116.3417,
+       40.006
+      ],
+      [
+       116.3427,
+       40.0265
+      ],
+      [
+       116.3475,
+       40.0265
+      ],
+      [
+       116.3475,
+       39.982749999999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "LU-003",
+   "properties": {
+    "id": "LU-003",
+    "layer": "LAND_USE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "land_use_code": "0803",
+    "name_zh": "公共文化与绿地混合(西南)",
+    "area_sqm_declared": 3048491.688
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.3475,
+       39.982749999999996
+      ],
+      [
+       116.3475,
+       39.939
+      ],
+      [
+       116.3407,
+       39.939
+      ],
+      [
+       116.3397,
+       39.975
+      ],
+      [
+       116.3402,
+       39.982749999999996
+      ],
+      [
+       116.3475,
+       39.982749999999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "LU-004",
+   "properties": {
+    "id": "LU-004",
+    "layer": "LAND_USE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "land_use_code": "1403",
+    "name_zh": "商业服务用地(东南)",
+    "area_sqm_declared": 3118148.155
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.3553,
+       39.939
+      ],
+      [
+       116.3475,
+       39.939
+      ],
+      [
+       116.3475,
+       39.982749999999996
+      ],
+      [
+       116.35388,
+       39.982749999999996
+      ],
+      [
+       116.3553,
+       39.965
+      ],
+      [
+       116.3553,
+       39.939
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

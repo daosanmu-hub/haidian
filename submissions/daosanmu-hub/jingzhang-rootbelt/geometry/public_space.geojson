@@ -1,0 +1,126 @@
+{
+ "type": "FeatureCollection",
+ "name": "public_space_scaffold",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "PUBLIC-001",
+   "properties": {
+    "id": "PUBLIC-001",
+    "layer": "PUBLIC_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "开发者散步道(主根慢行带)",
+    "space_type": "pedestrian_promenade"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.34204,
+       39.9796875
+      ],
+      [
+       116.345316,
+       39.9796875
+      ],
+      [
+       116.345316,
+       39.9858125
+      ],
+      [
+       116.34204,
+       39.9858125
+      ],
+      [
+       116.34204,
+       39.9796875
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PUBLIC-002",
+   "properties": {
+    "id": "PUBLIC-002",
+    "layer": "PUBLIC_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "开源发布广场(原点社区)",
+    "space_type": "civic_plaza"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.345316,
+       39.982749999999996
+      ],
+      [
+       116.348046,
+       39.982749999999996
+      ],
+      [
+       116.348046,
+       39.9919375
+      ],
+      [
+       116.345316,
+       39.9919375
+      ],
+      [
+       116.345316,
+       39.982749999999996
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "PUBLIC-003",
+   "properties": {
+    "id": "PUBLIC-003",
+    "layer": "PUBLIC_SPACE",
+    "source_type": "agent_generated_design",
+    "confidence": "medium",
+    "geometry_role": "design_proposal",
+    "name_zh": "测试验证广场(众智园)",
+    "space_type": "innovation_plaza"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       116.348592,
+       39.998062499999996
+      ],
+      [
+       116.351868,
+       39.998062499999996
+      ],
+      [
+       116.351868,
+       40.008475
+      ],
+      [
+       116.348592,
+       40.008475
+      ],
+      [
+       116.348592,
+       39.998062499999996
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
